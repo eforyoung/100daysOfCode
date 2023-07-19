@@ -1,0 +1,2 @@
+name = "Foryoung"
+print(name)
