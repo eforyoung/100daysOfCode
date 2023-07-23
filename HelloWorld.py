@@ -1,2 +1,1 @@
-name = "Foryoung"
-print(name)
+print("Hello World!!")
