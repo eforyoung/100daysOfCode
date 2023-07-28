@@ -1,4 +1,3 @@
-#Welcome to Treasure Island. Your mission is to find the treasure
 
 direction = input("What is the direction i.e. either left or right \n")
 lower_case_direction = direction.lower()
