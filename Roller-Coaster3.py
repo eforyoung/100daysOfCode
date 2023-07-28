@@ -1,6 +1,5 @@
 height =int(input("What is your height? \n"))
 
-
 ticket_cost = 0
 
 if height > 120:
